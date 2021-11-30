@@ -1,0 +1,16 @@
+{
+    "name": "c80/storage",
+    "description": "Simple php file storage system",
+    "authors": [
+        {
+            "name": "Orutu  Akposieyefa W",
+            "email": "orutu1@gmail.com",
+            "role" : "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    }
+}
